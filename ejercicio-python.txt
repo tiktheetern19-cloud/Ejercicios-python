@@ -1,0 +1,25 @@
+---
+
+Ejercicio 1: Calculadora de Calificaciones
+
+Crea un programa que pida 5 calificaciones (números entre 0 y 10) y determine cuántos estudiantes aprobaron con una nota minima de 6 y cuántos reprobaron. También debe calcular el promedio del grupo.
+
+---
+
+Ejercicio 2: Contador de Números Pares e Impares
+
+Solicita al usuario que ingrese 8 números enteros. El programa debe contar y mostrar cuántos son pares, cuántos son impares y la suma total de todos los números.
+
+---
+
+Ejercicio 3: Sistema de Inventario Sencillo
+
+Crea un programa que gestione un inventario de 3 productos (manzanas, naranjas, plátanos). Debe permitir al usuario actualizar las cantidades y mostrar cuáles productos tienen stock bajo (< 20 unidades).
+
+---
+
+Ejercicio 4: Registro de Temperaturas
+
+Pide al usuario que ingrese las temperaturas de 7 días (valores decimales). El programa debe identificar el día más caluroso, el más frío, y calcular la temperatura promedio de la semana.
+
+---
